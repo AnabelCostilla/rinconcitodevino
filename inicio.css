@@ -1,0 +1,45 @@
+body{
+    position:relative;
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+header{
+position: absolute;
+width: 100%;
+
+}
+nav{
+    background-color: rgba(111, 111, 113, 0.977);
+    text-align:end;
+    padding: 10px 0 ;
+    margin-top: 65px;
+    
+}
+.botones-nav{
+    display: flex;
+    justify-content:end;
+
+}
+.botones-nav button {
+    margin-left: 0 40px;
+    padding: 8px 15px;
+    font-size: 14px;
+    background-color: #5d145d;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+.botones-nav button:hover {
+    background-color: #5a005a;
+}
+.img{
+   
+    width: 100%;
+    height: auto;
+    margin: 0;  
+
+
+}
